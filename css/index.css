@@ -50,13 +50,14 @@ header p{
 	top: 0.675rem;
 	animation: duang 1s ease-in-out forwards;
 	width: 16.125rem;
+	height: 12.9rem
 }
 .ban_i2{
 	position: absolute;
 	top: 3.75rem;
 	left: 0;
 	opacity: 0;
-	width: 17.95rem
+	width: 17.95rem;
 }
 .show{
 	animation: duang2 1s ease-in-out forwards;
