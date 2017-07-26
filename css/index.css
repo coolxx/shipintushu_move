@@ -46,9 +46,10 @@ header p{
 }
 .ban_i1{
 	position: absolute;
+	left: 0;
 	top: 0.675rem;
 	animation: duang 1s ease-in-out forwards;
-	width: 16.125rem
+	width: 16.125rem;
 }
 .ban_i2{
 	position: absolute;
