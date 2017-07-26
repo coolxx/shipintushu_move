@@ -44,6 +44,7 @@ header p{
 .ban_i1{
 	position: absolute;
 	top: 27px;
+	left: 0;
 	animation: duang 1s ease-in-out forwards;
 }
 .ban_i2{
@@ -346,7 +347,7 @@ header p{
 	height: 68px;
 	line-height: 68px;
 	padding-left: 28px;
-	margin-left: 20px;
+	margin-left: 15px;
 	font-size: 24px;
 	color: #fff
 }
