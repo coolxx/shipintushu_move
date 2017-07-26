@@ -280,6 +280,7 @@ header p{
 	text-align: center;
 	line-height: 1.35rem;
 	margin-top: 0.05rem;
+	font-size: 0.75rem
 }
 .main_cc2 h2 p:nth-child(1){
 	border-right: 2px solid #fff;
@@ -330,7 +331,7 @@ header p{
 	border-bottom: 2px solid #e71425;
 }
 .main7{
-	margin-top: 30px;
+	margin-top: 0.75rem;
 }
 .main7 .main_cc > a{
 	border-bottom: 2px solid #5b9beb;
